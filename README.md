@@ -4,7 +4,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=7B8CFF&center=true&vCenter=true&width=560&lines=Cisco+Networking+%7C+CCNA+200-301;Routing+%E2%80%A2+Switching+%E2%80%A2+VLANs+%E2%80%A2+ACLs;15+Labs+%26+Counting+%E2%80%94+Building+Daily;Open+to+Network+Engineer+Opportunities" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=7B8CFF&center=true&vCenter=true&width=560&lines=Cisco+Networking+%7C+CCNA+200-301;Routing+%E2%80%A2+Switching+%E2%80%A2+VLANs+%E2%80%A2+HSRP;Building+Labs.+Learning+Daily.+Growing+Fast.;Open+to+Network+Engineer+Opportunities" alt="Typing SVG" />
 
 <br/><br/>
 
@@ -18,7 +18,7 @@
 
 ---
 
-<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="240" alt="coding gif"/>
+<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="260" alt="coding gif"/>
 
 ### `$ whoami`
 
@@ -36,9 +36,9 @@ principle  : Build. Document. Share.
 ### 🎯 Current Focus
 
 - 🔬 Practicing **CCNA labs** daily in Cisco Packet Tracer
-- 📖 Documenting every lab with configs, topology diagrams & ACL analysis
+- 📖 Documenting every lab with configs & topology diagrams
 - 🌐 Sharing knowledge publicly on **GitHub** & **LinkedIn**
-- 📡 Currently deep-diving into **ACLs · NAT/PAT · DHCP**
+- 📡 Currently deep-diving into **OSPF · HSRP · Advanced Routing**
 
 <br clear="right"/>
 
@@ -51,7 +51,6 @@ principle  : Build. Document. Share.
 ![Cisco](https://img.shields.io/badge/Cisco-055C8E?style=for-the-badge&logo=cisco&logoColor=white)
 ![Packet Tracer](https://img.shields.io/badge/Packet%20Tracer-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
 ![OSPF](https://img.shields.io/badge/OSPF-7B8CFF?style=for-the-badge&logo=cloudflare&logoColor=white)
-![ACL](https://img.shields.io/badge/ACLs-FF6B35?style=for-the-badge&logo=cisco&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-2C2C2C?style=for-the-badge&logo=linux&logoColor=FCC624)
 ![GitHub](https://img.shields.io/badge/GitHub-161B22?style=for-the-badge&logo=github&logoColor=white)
 ![TCP/IP](https://img.shields.io/badge/TCP%2FIP-0d1117?style=for-the-badge&logo=internetexplorer&logoColor=7B8CFF)
@@ -68,9 +67,8 @@ principle  : Build. Document. Share.
 | 🟣 **Layer 3** | Static Routing · OSPF · EIGRP · Floating Static |
 | 🟤 **Inter-VLAN** | Router-on-a-Stick · Layer 3 Switch (SVI) |
 | 🔷 **Redundancy** | HSRP · Virtual IP · Active/Standby · Preempt |
-| 🟠 **Security** | Standard ACLs · Wildcard Masks · `ip access-group` |
-| 🔶 **Protocols** | ARP · ICMP · TCP/UDP · 802.1Q · Serial WAN |
-| ⬜ **Coming Soon** | NAT/PAT · DHCP · DNS · Extended ACLs · WAN |
+| 🔶 **Protocols** | ARP · ICMP · 802.1Q · Wildcard Masks · Serial WAN |
+| ⬜ **Coming Soon** | ACLs · NAT/PAT · DHCP · DNS · WAN |
 
 </div>
 
@@ -87,11 +85,9 @@ principle  : Build. Document. Share.
   OSPF                ██████████████████████  100%  ✦
   EIGRP               ██████████████████████  100%  ✦
   HSRP                ██████████████████████  100%  ✦
-  Transport Layer     ██████████████████████  100%  ✦
-  Standard ACLs       ██████████████████████  100%  ✦
+  ACLs                ░░░░░░░░░░░░░░░░░░░░░░    0%  ○
   NAT / PAT           ░░░░░░░░░░░░░░░░░░░░░░    0%  ○
   DHCP & DNS          ░░░░░░░░░░░░░░░░░░░░░░    0%  ○
-  Extended ACLs       ░░░░░░░░░░░░░░░░░░░░░░    0%  ○
 ```
 
 ---
@@ -107,7 +103,7 @@ principle  : Build. Document. Share.
 <div align="center">
 
 ```
-  15 Hands-On Labs  ·  CCNA 200-301  ·  Open Source  ·  Free to Clone
+  13 Hands-On Labs  ·  CCNA 200-301  ·  Open Source  ·  Free to Clone
 ```
 
 </div>
