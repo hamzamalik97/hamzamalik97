@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d1a,50:1a1a3e,100:0d1117&height=200&section=header&text=M%20Hamza%20Siddique&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Network%20Engineer%20in%20the%20Making%20%7C%20CCNA%20200-301&descSize=16&descAlignY=58&descAlign=50" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d1a,50:1a1a3e,100:0d1117&height=200&section=header&text=M%20Hamza%20Siddique&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Network%20%26%20SOC%20Engineer%20in%20the%20Making%20%7C%20CCNA%20200-301&descSize=16&descAlignY=58&descAlign=50" width="100%"/>
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=7B8CFF&center=true&vCenter=true&width=560&lines=Cisco+Networking+%7C+CCNA+200-301;Routing+%E2%80%A2+Switching+%E2%80%A2+VLANs+%E2%80%A2+ACLs;15+Labs+%26+Counting+%E2%80%94+Building+Daily;Open+to+Network+Engineer+Opportunities" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=7B8CFF&center=true&vCenter=true&width=600&lines=Cisco+Networking+%7C+CCNA+200-301;Linux+%7C+SOC+Analyst+in+Training;19+Labs+%26+Counting+%E2%80%94+Building+Daily;Routing+%E2%80%A2+Switching+%E2%80%A2+ACLs+%E2%80%A2+DNS+%E2%80%A2+NTP;Open+to+Network+%2F+SOC+Engineer+Roles" alt="Typing SVG" />
 
 <br/><br/>
 
@@ -25,9 +25,9 @@
 ```yaml
 name       : M Hamza Siddique
 location   : Gujranwala, Pakistan 🇵🇰
-pursuit    : Cisco CCNA 200-301
-method     : Daily hands-on labs
-goal       : Network / SOC Engineer
+pursuing   : Cisco CCNA 200-301 + SOC Analyst
+method     : Daily hands-on labs & Linux practice
+goal       : Network Engineer / SOC Analyst
 principle  : Build. Document. Share.
 ```
 
@@ -35,24 +35,27 @@ principle  : Build. Document. Share.
 
 ### 🎯 Current Focus
 
-- 🔬 Practicing **CCNA labs** daily in Cisco Packet Tracer
-- 📖 Documenting every lab with configs, topology diagrams & ACL analysis
-- 🌐 Sharing knowledge publicly on **GitHub** & **LinkedIn**
-- 📡 Currently deep-diving into **ACLs · NAT/PAT · DHCP**
+- 🔬 Practicing **CCNA labs** daily in Cisco Packet Tracer — 19 labs completed
+- 🐧 Training on **Linux** for SOC operations — `grep`, `find`, log analysis, user/group enumeration
+- 🛡️ Building toward a **SOC Analyst** role with SIEM and threat detection skills
+- 🌐 Sharing everything publicly on **GitHub** & **LinkedIn**
+- 📡 Currently deep-diving into **NAT/PAT · DHCP · WAN**
 
 <br clear="right"/>
 
 ---
 
-## ◈ Networking Skills
+## ◈ Skills
 
 <div align="center">
 
 ![Cisco](https://img.shields.io/badge/Cisco-055C8E?style=for-the-badge&logo=cisco&logoColor=white)
 ![Packet Tracer](https://img.shields.io/badge/Packet%20Tracer-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-2C2C2C?style=for-the-badge&logo=linux&logoColor=FCC624)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 ![OSPF](https://img.shields.io/badge/OSPF-7B8CFF?style=for-the-badge&logo=cloudflare&logoColor=white)
 ![ACL](https://img.shields.io/badge/ACLs-FF6B35?style=for-the-badge&logo=cisco&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-2C2C2C?style=for-the-badge&logo=linux&logoColor=FCC624)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-161B22?style=for-the-badge&logo=github&logoColor=white)
 ![TCP/IP](https://img.shields.io/badge/TCP%2FIP-0d1117?style=for-the-badge&logo=internetexplorer&logoColor=7B8CFF)
 
@@ -68,9 +71,11 @@ principle  : Build. Document. Share.
 | 🟣 **Layer 3** | Static Routing · OSPF · EIGRP · Floating Static |
 | 🟤 **Inter-VLAN** | Router-on-a-Stick · Layer 3 Switch (SVI) |
 | 🔷 **Redundancy** | HSRP · Virtual IP · Active/Standby · Preempt |
-| 🟠 **Security** | Standard ACLs · Wildcard Masks · `ip access-group` |
-| 🔶 **Protocols** | ARP · ICMP · TCP/UDP · 802.1Q · Serial WAN |
-| ⬜ **Coming Soon** | NAT/PAT · DHCP · DNS · Extended ACLs · WAN |
+| 🟠 **Security** | Standard ACLs · Extended ACLs · Wildcard Masks · `ip access-group` |
+| 🔶 **Protocols** | ARP · ICMP · TCP/UDP · CDP · LLDP · NTP · DNS · HTTP |
+| 🐧 **Linux** | `grep` · `find` · User/Group Enumeration · Log Analysis · File Permissions |
+| 🛡️ **SOC** | Log Correlation · Threat Detection · SIEM Concepts · Security Auditing |
+| ⬜ **Coming Soon** | NAT/PAT · DHCP · WAN · Wazuh SIEM · Splunk |
 
 </div>
 
@@ -89,14 +94,32 @@ principle  : Build. Document. Share.
   HSRP                ██████████████████████  100%  ✦
   Transport Layer     ██████████████████████  100%  ✦
   Standard ACLs       ██████████████████████  100%  ✦
+  Extended ACLs       ██████████████████████  100%  ✦
+  CDP / LLDP          ██████████████████████  100%  ✦
+  NTP                 ██████████████████████  100%  ✦
+  DNS & HTTP          ██████████████████████  100%  ✦
   NAT / PAT           ░░░░░░░░░░░░░░░░░░░░░░    0%  ○
-  DHCP & DNS          ░░░░░░░░░░░░░░░░░░░░░░    0%  ○
-  Extended ACLs       ░░░░░░░░░░░░░░░░░░░░░░    0%  ○
+  DHCP                ░░░░░░░░░░░░░░░░░░░░░░    0%  ○
+  WAN Technologies    ░░░░░░░░░░░░░░░░░░░░░░    0%  ○
 ```
 
 ---
 
-## ◈ Featured Project
+## ◈ SOC Analyst Journey
+
+```
+  Linux Fundamentals    ██████████████████████  100%  ✦
+  File & Log Analysis   ████████████████░░░░░░   75%  ◑
+  User/Group Enum       ██████████████████████  100%  ✦
+  grep / find / awk     ████████████████░░░░░░   75%  ◑
+  SIEM Concepts         ████████░░░░░░░░░░░░░░   35%  ◑
+  Wazuh / Splunk        ░░░░░░░░░░░░░░░░░░░░░░    0%  ○
+  Threat Hunting        ░░░░░░░░░░░░░░░░░░░░░░    0%  ○
+```
+
+---
+
+## ◈ Featured Projects
 
 <div align="center">
 
@@ -107,7 +130,7 @@ principle  : Build. Document. Share.
 <div align="center">
 
 ```
-  15 Hands-On Labs  ·  CCNA 200-301  ·  Open Source  ·  Free to Clone
+  19 Hands-On Labs  ·  CCNA 200-301  ·  Open Source  ·  Free to Clone
 ```
 
 </div>
@@ -135,7 +158,7 @@ principle  : Build. Document. Share.
 </a>
 &nbsp;
 <a href="https://github.com/hamzamalik97/-Best-for-cisco-packet-tracer-lab">
-  <img src="https://img.shields.io/badge/View%20My%20Labs-161B22?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/View%20CCNA%20Labs-161B22?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <br/><br/>
