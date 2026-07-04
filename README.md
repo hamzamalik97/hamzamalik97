@@ -1,16 +1,24 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d1a,50:003366,100:0d1117&height=200&section=header&text=M%20Hamza%20Siddique&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Cybersecurity%20%26%20Network%20Engineer%20in%20the%20Making%20%7C%20CCNA%20200-301&descSize=16&descAlignY=58&descAlign=50" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d1a,50:003366,100:0d1117&height=220&section=header&text=M%20Hamza%20Siddique&fontSize=52&fontColor=00D4FF&animation=fadeIn&fontAlignY=36&desc=Cybersecurity%20%26%20Network%20Engineer%20in%20the%20Making%20%7C%20CCNA%20200-301&descSize=16&descColor=ffffff&descAlignY=56&descAlign=50" width="100%"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=00D4FF&center=true&vCenter=true&width=650&lines=🌐+Cisco+Networking+%7C+CCNA+200-301;🔐+Cybersecurity+Analyst+in+Training;🐧+Linux+%7C+Log+Analysis+%7C+Threat+Detection;📡+21+Labs+%26+Counting+—+Building+Daily;🚀+Open+to+Network+%26+Cybersecurity+Roles" alt="Typing SVG" />
+
+</div>
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=00D4FF&center=true&vCenter=true&width=620&lines=Cisco+Networking+%7C+CCNA+200-301;19+Labs+%26+Counting+%E2%80%94+Building+Daily;Linux+%7C+Cybersecurity+Analyst+in+Training;Routing+%E2%80%A2+Switching+%E2%80%A2+ACLs+%E2%80%A2+DNS+%E2%80%A2+NTP;Open+to+Network+%2F+Cybersecurity+Analyst+Roles" alt="Typing SVG" />
+<div align="center">
 
-<br/><br/>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-M%20Hamza%20Siddique-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hamza-malik-791ba8301/)
-[![GitHub](https://img.shields.io/badge/GitHub-hamzamalik97-161B22?style=flat-square&logo=github&logoColor=white)](https://github.com/hamzamalik97)
-![Visitors](https://komarev.com/ghpvc/?username=hamzamalik97&style=flat-square&color=00D4FF&label=Profile+Views)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-M%20Hamza%20Siddique-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hamza-malik-791ba8301/)
+&nbsp;
+[![GitHub](https://img.shields.io/badge/GitHub-hamzamalik97-161B22?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hamzamalik97)
+&nbsp;
+![Visitors](https://komarev.com/ghpvc/?username=hamzamalik97&style=for-the-badge&color=00D4FF&label=Profile+Views)
 
 </div>
 
@@ -18,7 +26,7 @@
 
 ---
 
-<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="240" alt="coding gif"/>
+<img align="right" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="280" alt="coding gif"/>
 
 ### `$ whoami`
 
@@ -36,29 +44,40 @@ principle  : Build. Document. Share.
 
 ### 🎯 Current Focus
 
-- 🔬 Practicing **CCNA labs** daily in Cisco Packet Tracer — 19 labs completed
-- 🐧 Training on **Linux** for cybersecurity operations — log analysis, `grep`, `find`, user/group enumeration
-- 🛡️ Building toward a **Cybersecurity Analyst** role with SIEM and threat detection skills
+- 🔬 **21 CCNA labs** completed in Cisco Packet Tracer — ACLs, NTP, DNS, DHCP, SNMP, OSPF, HSRP & more
+- 🐧 **Linux training** for cybersecurity ops — log analysis, `grep`, `find`, user/group enumeration
+- 🛡️ Building toward **Cybersecurity Analyst** with SIEM & threat detection skills
 - 🌐 Sharing everything publicly on **GitHub** & **LinkedIn**
-- 📡 Next up: **NAT/PAT · DHCP · WAN**
+- 📡 Next: **NAT/PAT · DHCP · WAN**
 
 <br clear="right"/>
 
 ---
 
-## ◈ Networking Skills
+<div align="center">
+
+## ◈ Tech Stack & Skills
+
+</div>
 
 <div align="center">
+
+**Networking**
 
 ![Cisco](https://img.shields.io/badge/Cisco-00D4FF?style=for-the-badge&logo=cisco&logoColor=0d1117)
 ![Packet Tracer](https://img.shields.io/badge/Packet%20Tracer-0057A8?style=for-the-badge&logo=cisco&logoColor=white)
 ![OSPF](https://img.shields.io/badge/OSPF-00D4FF?style=for-the-badge&logo=cloudflare&logoColor=0d1117)
 ![ACL](https://img.shields.io/badge/ACLs-0057A8?style=for-the-badge&logo=cisco&logoColor=white)
+![TCP/IP](https://img.shields.io/badge/TCP%2FIP-00D4FF?style=for-the-badge&logo=internetexplorer&logoColor=0d1117)
+![Wireshark](https://img.shields.io/badge/Wireshark-0057A8?style=for-the-badge&logo=wireshark&logoColor=white)
+
+**Cybersecurity & Linux**
+
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=0d1117)
 ![Bash](https://img.shields.io/badge/Bash-10B981?style=for-the-badge&logo=gnubash&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-00D4FF?style=for-the-badge&logo=wireshark&logoColor=0d1117)
+![Kali](https://img.shields.io/badge/Kali%20Linux-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)
+![SIEM](https://img.shields.io/badge/SIEM-10B981?style=for-the-badge&logo=splunk&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-161B22?style=for-the-badge&logo=github&logoColor=white)
-![TCP/IP](https://img.shields.io/badge/TCP%2FIP-0057A8?style=for-the-badge&logo=internetexplorer&logoColor=white)
 
 </div>
 
@@ -82,7 +101,11 @@ principle  : Build. Document. Share.
 
 ---
 
-## ◈ CCNA Progress
+<div align="center">
+
+## ◈ CCNA 200-301 Progress
+
+</div>
 
 ```
   ARP & ICMP          ██████████████████████  100%  ✦
@@ -99,21 +122,27 @@ principle  : Build. Document. Share.
   CDP / LLDP          ██████████████████████  100%  ✦
   NTP                 ██████████████████████  100%  ✦
   DNS & HTTP          ██████████████████████  100%  ✦
+  DHCP                ██████████████████████  100%  ✦
+  SNMP                ██████████████████████  100%  ✦
   NAT / PAT           ░░░░░░░░░░░░░░░░░░░░░░    0%  ○
-  DHCP                ░░░░░░░░░░░░░░░░░░░░░░    0%  ○
+  SNMP & Monitoring   ██████████████████████  100%  ✦
   WAN Technologies    ░░░░░░░░░░░░░░░░░░░░░░    0%  ○
 ```
 
 ---
 
+<div align="center">
+
 ## ◈ Cybersecurity Analyst Journey
+
+</div>
 
 ```
   Linux Fundamentals    ██████████████████████  100%  ✦
   User & Group Enum     ██████████████████████  100%  ✦
+  File Permissions      ██████████████████████  100%  ✦
   grep / find / awk     ████████████████░░░░░░   75%  ◑
   Log File Analysis     ████████████████░░░░░░   75%  ◑
-  File Permissions      ██████████████████████  100%  ✦
   SIEM Concepts         ████████░░░░░░░░░░░░░░   35%  ◑
   Wazuh / Splunk        ░░░░░░░░░░░░░░░░░░░░░░    0%  ○
   Threat Hunting        ░░░░░░░░░░░░░░░░░░░░░░    0%  ○
@@ -121,39 +150,39 @@ principle  : Build. Document. Share.
 
 ---
 
-## ◈ Featured Project
-
 <div align="center">
+
+## ◈ Featured Project
 
 [![Cisco Labs](https://github-readme-stats.vercel.app/api/pin/?username=hamzamalik97&repo=-Best-for-cisco-packet-tracer-lab&theme=dark&hide_border=true&title_color=00D4FF&icon_color=00D4FF&text_color=cdd9e5&bg_color=0d1117)](https://github.com/hamzamalik97/-Best-for-cisco-packet-tracer-lab)
 
-</div>
-
-<div align="center">
-
 ```
-  19 Hands-On Labs  ·  CCNA 200-301  ·  Open Source  ·  Free to Clone
+  21 Hands-On Labs  ·  CCNA 200-301  ·  Open Source  ·  Free to Clone
 ```
 
 </div>
 
 ---
+
+<div align="center">
 
 ## ◈ GitHub Stats
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=hamzamalik97&show_icons=true&theme=dark&hide_border=true&title_color=00D4FF&icon_color=00D4FF&text_color=cdd9e5&bg_color=0d1117&count_private=true" height="160"/>
+<img src="https://github-readme-stats.vercel.app/api?username=hamzamalik97&show_icons=true&theme=dark&hide_border=true&title_color=00D4FF&icon_color=00D4FF&text_color=cdd9e5&bg_color=0d1117&count_private=true" height="165"/>
 &nbsp;&nbsp;
-<img src="https://streak-stats.demolab.com?user=hamzamalik97&theme=dark&hide_border=true&background=0d1117&ring=00D4FF&fire=00D4FF&currStreakLabel=00D4FF" height="160"/>
+<img src="https://streak-stats.demolab.com?user=hamzamalik97&theme=dark&hide_border=true&background=0d1117&ring=00D4FF&fire=00D4FF&currStreakLabel=00D4FF" height="165"/>
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=hamzamalik97&bg_color=0d1117&color=00D4FF&line=0057A8&point=00D4FF&area=true&hide_border=true" width="95%"/>
 
 </div>
 
 ---
 
-## ◈ Connect
-
 <div align="center">
+
+## ◈ Connect
 
 <a href="https://www.linkedin.com/in/hamza-malik-791ba8301/">
   <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
