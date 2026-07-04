@@ -1,18 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d1a,50:003366,100:0d1117&height=220&section=header&text=M%20Hamza%20Siddique&fontSize=52&fontColor=00D4FF&animation=fadeIn&fontAlignY=36&desc=Cybersecurity%20%26%20Network%20Engineer%20in%20the%20Making%20%7C%20CCNA%20200-301&descSize=16&descColor=ffffff&descAlignY=56&descAlign=50" width="100%"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=00D4FF&center=true&vCenter=true&width=650&lines=🌐+Cisco+Networking+%7C+CCNA+200-301;🔐+Cybersecurity+Analyst+in+Training;🐧+Linux+%7C+Log+Analysis+%7C+Threat+Detection;📡+21+Labs+%26+Counting+—+Building+Daily;🚀+Open+to+Network+%26+Cybersecurity+Roles" alt="Typing SVG" />
-
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d1a,50:003366,100:0d1117&height=220&section=header&text=M%20Hamza%20Siddique&fontSize=52&fontColor=00D4FF&animation=fadeIn&fontAlignY=36&desc=Cybersecurity%20%26%20Network%20Engineer%20in%20the%20Making%20%7C%20CCNA%20200-301&descSize=16&descColor=ffffff&descAlignY=56&descAlign=50" width="100%" alt="header"/>
 
 <br/>
 
-<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=00D4FF&center=true&vCenter=true&width=650&lines=Cisco+Networking+%7C+CCNA+200-301;Cybersecurity+Analyst+in+Training;Linux+%7C+Log+Analysis+%7C+Threat+Detection;21+Labs+%26+Counting+--+Building+Daily;Open+to+Network+%26+Cybersecurity+Roles" alt="Typing SVG" />
+
+<br/><br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-M%20Hamza%20Siddique-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hamza-malik-791ba8301/)
 &nbsp;
@@ -26,7 +20,9 @@
 
 ---
 
-<img align="right" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="280" alt="coding gif"/>
+<table width="100%">
+<tr>
+<td width="55%" valign="top">
 
 ### `$ whoami`
 
@@ -40,17 +36,22 @@ goal       : Network / Cybersecurity Analyst
 principle  : Build. Document. Share.
 ```
 
-<br/>
-
 ### 🎯 Current Focus
 
-- 🔬 **21 CCNA labs** completed in Cisco Packet Tracer — ACLs, NTP, DNS, DHCP, SNMP, OSPF, HSRP & more
-- 🐧 **Linux training** for cybersecurity ops — log analysis, `grep`, `find`, user/group enumeration
+- 🔬 **21 CCNA labs** completed — ACLs, NTP, DNS, DHCP, SNMP, OSPF, HSRP & more
+- 🐧 **Linux training** — log analysis, `grep`, `find`, user/group enumeration
 - 🛡️ Building toward **Cybersecurity Analyst** with SIEM & threat detection skills
-- 🌐 Sharing everything publicly on **GitHub** & **LinkedIn**
-- 📡 Next: **NAT/PAT · DHCP · WAN**
+- 🌐 Sharing everything on **GitHub** & **LinkedIn**
+- 📡 Next: **NAT/PAT · WAN · Syslog**
 
-<br clear="right"/>
+</td>
+<td width="45%" align="center" valign="top">
+
+<img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="100%" style="max-width:280px;" alt="coding gif"/>
+
+</td>
+</tr>
+</table>
 
 ---
 
