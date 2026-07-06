@@ -1,205 +1,163 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d1a,50:003366,100:0d1117&height=220&section=header&text=M%20Hamza%20Siddique&fontSize=52&fontColor=00D4FF&animation=fadeIn&fontAlignY=36&desc=Cybersecurity%20%26%20Network%20Engineer%20in%20the%20Making%20%7C%20CCNA%20200-301&descSize=16&descColor=ffffff&descAlignY=56&descAlign=50" width="100%" alt="header"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=800&size=36&pause=1000&color=00FF88&center=true&vCenter=true&width=800&lines=M+HAMZA+SIDDIQUE+SHAKER;Cybersecurity+%26+SOC+Analyst;Network+%26+Linux+Enthusiast;Blue+Team+%7C+CCNA+%7C+Linux+Mint" alt="Typing SVG" />
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=00D4FF&center=true&vCenter=true&width=650&lines=Cisco+Networking+%7C+CCNA+200-301;Cybersecurity+Analyst+in+Training;Linux+%7C+Log+Analysis+%7C+Threat+Detection;21+Labs+%26+Counting+--+Building+Daily;Open+to+Network+%26+Cybersecurity+Roles" alt="Typing SVG" />
-
-<br/><br/>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-M%20Hamza%20Siddique-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hamza-malik-791ba8301/)
-&nbsp;
-[![GitHub](https://img.shields.io/badge/GitHub-hamzamalik97-161B22?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hamzamalik97)
-&nbsp;
-![Visitors](https://komarev.com/ghpvc/?username=hamzamalik97&style=for-the-badge&color=00D4FF&label=Profile+Views)
-
-</div>
+**`Building secure, functional networks & systems 🌐`**
 
 <br/>
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/hamza-malik-791ba8301/)
+[![GitHub](https://img.shields.io/badge/GitHub-hamzamalik97-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hamzamalik97)
+[![Profile Views](https://komarev.com/ghpvc/?username=hamzamalik97&style=for-the-badge&color=00FF88&label=PROFILE+VIEWS)](https://github.com/hamzamalik97)
+
+</div>
+
 ---
 
-<table width="100%">
-<tr>
-<td width="55%" valign="top">
+## 🖥️ Terminal
 
-### `$ whoami`
+```bash
+visitor@linux:~$ cat ./about_me.txt
 
-```yaml
-name       : M Hamza Siddique
-location   : Gujranwala, Pakistan 🇵🇰
-pursuing   : Cisco CCNA 200-301
-training   : Cybersecurity Analyst + Linux
-method     : Daily hands-on labs
-goal       : Network / Cybersecurity Analyst
-principle  : Build. Document. Share.
+╔══════════════════════════════════════════════════════╗
+║              HAMZA'S PROFILE — v1.0                  ║
+╠══════════════════════════════════════════════════════╣
+║                                                      ║
+║  Name    :  M Hamza Siddique Shaker                  ║
+║  Handle  :  github.com/hamzamalik97                  ║
+║  Uni     :  University of Sargodha (BSIT — Sem 6)    ║
+║  Focus   :  Cybersecurity • Networking • Linux       ║
+║  Cert    :  CCNA 200-301 (In Progress — 2026)        ║
+║  Status  :  ████████░░  Learning every day           ║
+║  CallMe  :  OPEN — reach out anytime 📬              ║
+║                                                      ║
+╚══════════════════════════════════════════════════════╝
+
+visitor@linux:~$ █
 ```
 
-### 🎯 Current Focus
+---
 
-- 🔬 **21 CCNA labs** completed — ACLs, NTP, DNS, DHCP, SNMP, OSPF, HSRP & more
-- 🐧 **Linux training** — log analysis, `grep`, `find`, user/group enumeration
-- 🛡️ Building toward **Cybersecurity Analyst** with SIEM & threat detection skills
-- 🌐 Sharing everything on **GitHub** & **LinkedIn**
-- 📡 Next: **NAT/PAT · WAN · Syslog**
+## 👨‍💻 About Me
 
-</td>
-<td width="45%" align="center" valign="top">
-
-<img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="100%" style="max-width:280px;" alt="coding gif"/>
-
-</td>
-</tr>
-</table>
+- 🎓 **BSIT Student** at University of Sargodha — 6th Semester (Session 2023–2027)
+- 🛡️ Aspiring **SOC Analyst** — actively training on Linux Mint (15-Day Blue Team Program)
+- 📡 Pursuing **CCNA 200-301** certification — targeting end of 2026
+- 🔬 Built a **Password Manager** project during internship at **Syntecxhub**
+- 📊 Working with **Wazuh SIEM** for security monitoring and log analysis
+- 🌐 Building **Cisco Packet Tracer** labs — OSPF, EIGRP, HSRP, ACLs, VLANs and more
+- 💬 Ask me about **Linux CLI, Networking, SOC workflows, or CCNA labs**
 
 ---
 
+## > tech.stack
+
+### 🔐 Cybersecurity & SOC
+
+![Wazuh](https://img.shields.io/badge/Wazuh-SIEM-005571?style=flat-square&logo=wazuh&logoColor=white)
+![Splunk](https://img.shields.io/badge/Splunk-SIEM-FF5733?style=flat-square&logo=splunk&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux_Mint-Blue_Team-87CF3E?style=flat-square&logo=linuxmint&logoColor=white)
+![Blue Team](https://img.shields.io/badge/Blue%20Team-SOC%20Operations-1E3A5F?style=flat-square)
+![Log Analysis](https://img.shields.io/badge/Log-Analysis-DC143C?style=flat-square&logo=gnu-bash&logoColor=white)
+
+### 🌐 Networking
+
+![Cisco](https://img.shields.io/badge/Cisco-Packet%20Tracer-1BA0D7?style=flat-square&logo=cisco&logoColor=white)
+![CCNA](https://img.shields.io/badge/CCNA-200--301-1BA0D7?style=flat-square&logo=cisco&logoColor=white)
+![OSPF](https://img.shields.io/badge/OSPF-Routing-0052CC?style=flat-square)
+![EIGRP](https://img.shields.io/badge/EIGRP-Routing-0052CC?style=flat-square)
+![VLAN](https://img.shields.io/badge/VLANs-Switching-6554AF?style=flat-square)
+![ACL](https://img.shields.io/badge/ACLs-Security-E53935?style=flat-square)
+
+### 🖥️ OS & Shell
+
+![Linux Mint](https://img.shields.io/badge/Linux%20Mint-Primary%20OS-87CF3E?style=flat-square&logo=linuxmint&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-Scripting-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-Based-E95420?style=flat-square&logo=ubuntu&logoColor=white)
+![Terminal](https://img.shields.io/badge/Terminal-CLI%20Mastery-000000?style=flat-square&logo=windowsterminal&logoColor=white)
+
+### 💻 Languages & Tools
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+
+---
+
+## 📌 Current Focus
+
+```
+🔴  LIVE   SOC Analyst Linux Training    ——  Day 11 / 15   [████████████████████░░░░░░]  73%
+🟡  ACTIVE CCNA 200-301 Lab Practice     ——  In Progress    [████████████░░░░░░░░░░░░░░]  50%
+🟢  DONE   Syntecxhub Internship         ——  Completed      [██████████████████████████] 100%
+```
+
+---
+
+## 📂 Featured Repositories
+
 <div align="center">
 
-## ◈ Tech Stack & Skills
+[![CCNA Labs](https://github-readme-stats.vercel.app/api/pin/?username=hamzamalik97&repo=-Best-for-cisco-packet-tracer-lab&theme=github_dark&border_color=00FF88&title_color=00FF88&icon_color=00FF88)](https://github.com/hamzamalik97/-Best-for-cisco-packet-tracer-lab)
+[![Password Manager](https://github-readme-stats.vercel.app/api/pin/?username=hamzamalik97&repo=Syntecxhub_PasswordManager_Hamza&theme=github_dark&border_color=00FF88&title_color=00FF88&icon_color=00FF88)](https://github.com/hamzamalik97/Syntecxhub_PasswordManager_Hamza)
 
 </div>
 
+---
+
+## 📊 GitHub Stats
+
 <div align="center">
 
-**Networking**
-
-![Cisco](https://img.shields.io/badge/Cisco-00D4FF?style=for-the-badge&logo=cisco&logoColor=0d1117)
-![Packet Tracer](https://img.shields.io/badge/Packet%20Tracer-0057A8?style=for-the-badge&logo=cisco&logoColor=white)
-![OSPF](https://img.shields.io/badge/OSPF-00D4FF?style=for-the-badge&logo=cloudflare&logoColor=0d1117)
-![ACL](https://img.shields.io/badge/ACLs-0057A8?style=for-the-badge&logo=cisco&logoColor=white)
-![TCP/IP](https://img.shields.io/badge/TCP%2FIP-00D4FF?style=for-the-badge&logo=internetexplorer&logoColor=0d1117)
-![Wireshark](https://img.shields.io/badge/Wireshark-0057A8?style=for-the-badge&logo=wireshark&logoColor=white)
-
-**Cybersecurity & Linux**
-
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=0d1117)
-![Bash](https://img.shields.io/badge/Bash-10B981?style=for-the-badge&logo=gnubash&logoColor=white)
-![Kali](https://img.shields.io/badge/Kali%20Linux-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)
-![SIEM](https://img.shields.io/badge/SIEM-10B981?style=for-the-badge&logo=splunk&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-161B22?style=for-the-badge&logo=github&logoColor=white)
-
-</div>
+<img src="https://github-readme-stats.vercel.app/api?username=hamzamalik97&show_icons=true&theme=github_dark&border_color=00FF88&title_color=00FF88&icon_color=00FF88&hide_border=false" height="165" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamzamalik97&layout=compact&theme=github_dark&border_color=00FF88&title_color=00FF88&hide_border=false" height="165" />
 
 <br/>
 
-<div align="center">
-
-| Domain | Concepts |
-|:---|:---|
-| 🔵 **Layer 2** | VLANs · Trunking · STP · RSTP · BPDU Guard |
-| 🟣 **Layer 3** | Static Routing · OSPF · EIGRP · Floating Static |
-| 🟤 **Inter-VLAN** | Router-on-a-Stick · Layer 3 Switch (SVI) |
-| 🔷 **Redundancy** | HSRP · Virtual IP · Active/Standby · Preempt |
-| 🟠 **Security** | Standard ACLs · Extended ACLs · Named ACLs · Wildcard Masks |
-| 🔶 **Protocols** | ARP · ICMP · TCP/UDP · CDP · LLDP · NTP · DNS · HTTP/S |
-| 🐧 **Linux** | `grep` · `find` · Log Analysis · User/Group Enum · File Permissions |
-| 🛡️ **Cybersecurity** | Log Correlation · Threat Detection · SIEM Concepts · Security Auditing |
-| ⬜ **Coming Soon** | NAT/PAT · DHCP · WAN · Wazuh · Splunk |
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=hamzamalik97&theme=github-dark-blue&border=00FF88&ring=00FF88&fire=FF6B35&currStreakLabel=00FF88" />
 
 </div>
 
 ---
 
+## 🐍 Contribution Snake
+
 <div align="center">
 
-## ◈ CCNA 200-301 Progress
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/hamzamalik97/hamzamalik97/blob/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/hamzamalik97/hamzamalik97/blob/output/github-contribution-grid-snake.svg" />
+  <img alt="github contribution grid snake animation" src="https://github.com/hamzamalik97/hamzamalik97/blob/output/github-contribution-grid-snake.svg" />
+</picture>
 
 </div>
 
+---
+
+## 🗺️ Roadmap
+
 ```
-  ARP & ICMP          ██████████████████████  100%  ✦
-  Static Routing      ██████████████████████  100%  ✦
-  VLANs & Trunking    ██████████████████████  100%  ✦
-  STP / RSTP          ██████████████████████  100%  ✦
-  Inter-VLAN Routing  ██████████████████████  100%  ✦
-  OSPF                ██████████████████████  100%  ✦
-  EIGRP               ██████████████████████  100%  ✦
-  HSRP                ██████████████████████  100%  ✦
-  Transport Layer     ██████████████████████  100%  ✦
-  Standard ACLs       ██████████████████████  100%  ✦
-  Extended ACLs       ██████████████████████  100%  ✦
-  CDP / LLDP          ██████████████████████  100%  ✦
-  NTP                 ██████████████████████  100%  ✦
-  DNS & HTTP          ██████████████████████  100%  ✦
-  DHCP                ██████████████████████  100%  ✦
-  SNMP                ██████████████████████  100%  ✦
-  NAT / PAT           ░░░░░░░░░░░░░░░░░░░░░░    0%  ○
-  SNMP & Monitoring   ██████████████████████  100%  ✦
-  WAN Technologies    ░░░░░░░░░░░░░░░░░░░░░░    0%  ○
+2024  ✅  Syntecxhub Internship (Password Manager project)
+2025  ✅  SOC Analyst Linux Training (15-Day Program)
+2025  ✅  CCNA Lab Practice (Packet Tracer — 21+ Labs)
+2026  🎯  CCNA 200-301 Certification
+2026  🎯  SOC Analyst / SIEM Engineer (Entry Level)
+2027  🎯  BSIT Graduation — University of Sargodha
+2027  🎯  eJPT / CompTIA Security+ Certification
 ```
 
 ---
 
 <div align="center">
 
-## ◈ Cybersecurity Analyst Journey
-
-</div>
-
-```
-  Linux Fundamentals    ██████████████████████  100%  ✦
-  User & Group Enum     ██████████████████████  100%  ✦
-  File Permissions      ██████████████████████  100%  ✦
-  grep / find / awk     ████████████████░░░░░░   75%  ◑
-  Log File Analysis     ████████████████░░░░░░   75%  ◑
-  SIEM Concepts         ████████░░░░░░░░░░░░░░   35%  ◑
-  Wazuh / Splunk        ░░░░░░░░░░░░░░░░░░░░░░    0%  ○
-  Threat Hunting        ░░░░░░░░░░░░░░░░░░░░░░    0%  ○
-```
-
----
-
-<div align="center">
-
-## ◈ Featured Project
-
-[![Cisco Labs](https://github-readme-stats.vercel.app/api/pin/?username=hamzamalik97&repo=-Best-for-cisco-packet-tracer-lab&theme=dark&hide_border=true&title_color=00D4FF&icon_color=00D4FF&text_color=cdd9e5&bg_color=0d1117)](https://github.com/hamzamalik97/-Best-for-cisco-packet-tracer-lab)
-
-```
-  21 Hands-On Labs  ·  CCNA 200-301  ·  Open Source  ·  Free to Clone
-```
-
-</div>
-
----
-
-<div align="center">
-
-## ◈ GitHub Stats
-
-<img src="https://github-readme-stats.vercel.app/api?username=hamzamalik97&show_icons=true&theme=dark&hide_border=true&title_color=00D4FF&icon_color=00D4FF&text_color=cdd9e5&bg_color=0d1117&count_private=true" height="165"/>
-&nbsp;&nbsp;
-<img src="https://streak-stats.demolab.com?user=hamzamalik97&theme=dark&hide_border=true&background=0d1117&ring=00D4FF&fire=00D4FF&currStreakLabel=00D4FF" height="165"/>
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=hamzamalik97&bg_color=0d1117&color=00D4FF&line=0057A8&point=00D4FF&area=true&hide_border=true" width="95%"/>
-
-</div>
-
----
-
-<div align="center">
-
-## ◈ Connect
-
-<a href="https://www.linkedin.com/in/hamza-malik-791ba8301/">
-  <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-&nbsp;
-<a href="https://github.com/hamzamalik97/-Best-for-cisco-packet-tracer-lab">
-  <img src="https://img.shields.io/badge/View%20CCNA%20Labs-00D4FF?style=for-the-badge&logo=github&logoColor=0d1117"/>
-</a>
-
-<br/><br/>
-
-> *"An expert is a person who has made all the mistakes that can be made in a very narrow field."*
-> — Niels Bohr
-
-</div>
+**`> "Learning one command at a time. Building one investigation at a time." _`**
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d1a,50:003366,100:0d1117&height=120&section=footer" width="100%"/>
+[![LinkedIn](https://img.shields.io/badge/Let's%20Connect-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/hamza-malik-791ba8301/)
+
+</div>
