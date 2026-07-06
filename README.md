@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d1a,50:003366,100:0d1117&height=220&section=header&text=M%20Hamza%20Siddique&fontSize=52&fontColor=00D4FF&animation=fadeIn&fontAlignY=36&desc=Cybersecurity%20%26%20Network%20Engineer%20in%20the%20Making%20%7C%20CCNA%20200-301&descSize=16&descColor=ffffff&descAlignY=56&descAlign=50" width="100%" alt="header"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=42&pause=99999&color=00D4FF&center=true&vCenter=true&width=700&height=80&lines=M+Hamza+Siddique" alt="Name"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=16&pause=99999&color=ffffff&center=true&vCenter=true&width=700&height=30&lines=Cybersecurity+%26+Network+Engineer+in+the+Making+%7C+CCNA+200-301" alt="Tagline"/>
 
 <br/>
 
