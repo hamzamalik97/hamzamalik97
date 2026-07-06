@@ -140,7 +140,11 @@ visitor@github:~$ cat ./about_me.txt
 
 ## ◈ Featured Project
 
-[![Cisco Labs](https://github-readme-stats.vercel.app/api/pin/?username=hamzamalik97&repo=-Best-for-cisco-packet-tracer-lab&theme=dark&hide_border=true&title_color=00D4FF&icon_color=00D4FF&text_color=cdd9e5&bg_color=0d1117)](https://github.com/hamzamalik97/-Best-for-cisco-packet-tracer-lab)
+[<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=hamzamalik97&repo=-Best-for-cisco-packet-tracer-lab&theme=dark&hide_border=true&title_color=00D4FF&icon_color=00D4FF&text_color=cdd9e5&bg_color=0d1117"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=hamzamalik97&repo=-Best-for-cisco-packet-tracer-lab&theme=default&hide_border=true&title_color=0057A8&icon_color=0057A8"/>
+  <img alt="Cisco Labs" src="https://github-readme-stats.vercel.app/api/pin/?username=hamzamalik97&repo=-Best-for-cisco-packet-tracer-lab&theme=dark&hide_border=true&title_color=00D4FF&icon_color=00D4FF&text_color=cdd9e5&bg_color=0d1117"/>
+</picture>](https://github.com/hamzamalik97/-Best-for-cisco-packet-tracer-lab)
 
 ```
   21 Hands-On Labs  ·  CCNA 200-301  ·  Open Source  ·  Free to Clone
@@ -154,9 +158,17 @@ visitor@github:~$ cat ./about_me.txt
 
 ## ◈ GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=hamzamalik97&show_icons=true&theme=dark&hide_border=true&title_color=00D4FF&icon_color=00D4FF&text_color=cdd9e5&bg_color=0d1117&count_private=true" height="165"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=hamzamalik97&show_icons=true&theme=dark&hide_border=true&title_color=00D4FF&icon_color=00D4FF&text_color=cdd9e5&bg_color=0d1117&count_private=true"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=hamzamalik97&show_icons=true&theme=default&hide_border=true&title_color=0057A8&icon_color=0057A8&count_private=true"/>
+  <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=hamzamalik97&show_icons=true&theme=dark&hide_border=true&title_color=00D4FF&icon_color=00D4FF&text_color=cdd9e5&bg_color=0d1117&count_private=true" height="165"/>
+</picture>
 &nbsp;&nbsp;
-<img src="https://streak-stats.demolab.com?user=hamzamalik97&theme=dark&hide_border=true&background=0d1117&ring=00D4FF&fire=00D4FF&currStreakLabel=00D4FF" height="165"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=hamzamalik97&theme=dark&hide_border=true&background=0d1117&ring=00D4FF&fire=00D4FF&currStreakLabel=00D4FF"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=hamzamalik97&theme=default&hide_border=true&ring=0057A8&fire=0057A8&currStreakLabel=0057A8"/>
+  <img alt="Streak Stats" src="https://streak-stats.demolab.com?user=hamzamalik97&theme=dark&hide_border=true&background=0d1117&ring=00D4FF&fire=00D4FF&currStreakLabel=00D4FF" height="165"/>
+</picture>
 
 <br/><br/>
 
@@ -172,7 +184,11 @@ visitor@github:~$ cat ./about_me.txt
 
 ### Standard Contribution Graph
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=hamzamalik97&theme=react-dark&bg_color=0d1117&color=00D4FF&line=00D4FF&point=ffffff&hide_border=true" width="95%"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=hamzamalik97&theme=react-dark&bg_color=0d1117&color=00D4FF&line=00D4FF&point=ffffff&hide_border=true"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=hamzamalik97&theme=minimal&bg_color=ffffff&color=0057A8&line=0057A8&point=0d1117&hide_border=true"/>
+  <img alt="Contribution activity graph" src="https://github-readme-activity-graph.vercel.app/graph?username=hamzamalik97&theme=react-dark&bg_color=0d1117&color=00D4FF&line=00D4FF&point=ffffff&hide_border=true" width="95%"/>
+</picture>
 
 </div>
 
