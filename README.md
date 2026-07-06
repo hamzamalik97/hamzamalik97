@@ -19,11 +19,20 @@ _|_|_|    _|_|_|  _|_|_|    _|_|_|    _|_|_|    _|_|  _|    _|_|    _|_|_|_|
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-M%20Hamza%20Siddique-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hamza-malik-791ba8301/)
-&nbsp;
-[![GitHub](https://img.shields.io/badge/GitHub-hamzamalik97-161B22?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hamzamalik97)
-&nbsp;
-![Visitors](https://komarev.com/ghpvc/?username=hamzamalik97&style=for-the-badge&color=00FF9D&label=Profile+Views)
+<a href="https://www.linkedin.com/in/hamza-malik-791ba8301/">
+  <img src="https://img.shields.io/badge/LinkedIn-M%20Hamza%20Siddique-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117"/>
+</a>
+<a href="https://github.com/hamzamalik97">
+  <img src="https://img.shields.io/badge/GitHub-hamzamalik97-00D4FF?style=for-the-badge&logo=github&logoColor=0d1117&labelColor=0d1117"/>
+</a>
+<a href="https://github.com/hamzamalik97/-Best-for-cisco-packet-tracer-lab">
+  <img src="https://img.shields.io/badge/CCNA%20Labs-21%20Projects-10B981?style=for-the-badge&logo=cisco&logoColor=white&labelColor=0d1117"/>
+</a>
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=hamzamalik97&style=for-the-badge&color=00D4FF&labelColor=0d1117&label=VISITORS"/>
+<img src="https://img.shields.io/github/followers/hamzamalik97?style=for-the-badge&color=10B981&labelColor=0d1117&label=FOLLOWERS"/>
 
 </div>
 
@@ -51,20 +60,21 @@ visitor@github:~$ cat ./about_me.txt
 
 **Networking**
 
-![Cisco](https://img.shields.io/badge/Cisco-00D4FF?style=for-the-badge&logo=cisco&logoColor=0d1117)
-![Packet Tracer](https://img.shields.io/badge/Packet%20Tracer-0057A8?style=for-the-badge&logo=cisco&logoColor=white)
-![OSPF](https://img.shields.io/badge/OSPF-00D4FF?style=for-the-badge&logo=cloudflare&logoColor=0d1117)
-![ACL](https://img.shields.io/badge/ACLs-0057A8?style=for-the-badge&logo=cisco&logoColor=white)
-![TCP/IP](https://img.shields.io/badge/TCP%2FIP-00D4FF?style=for-the-badge&logo=internetexplorer&logoColor=0d1117)
-![Wireshark](https://img.shields.io/badge/Wireshark-0057A8?style=for-the-badge&logo=wireshark&logoColor=white)
+<img src="https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/Packet%20Tracer-0057A8?style=for-the-badge&logo=cisco&logoColor=white&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/OSPF-00D4FF?style=for-the-badge&logo=cloudflare&logoColor=0d1117&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/ACLs-FF6B6B?style=for-the-badge&logo=cisco&logoColor=white&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/TCP%2FIP-00D4FF?style=for-the-badge&logo=internetexplorer&logoColor=0d1117&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white&labelColor=0d1117"/>
 
 **Cybersecurity & Linux**
 
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=0d1117)
-![Bash](https://img.shields.io/badge/Bash-10B981?style=for-the-badge&logo=gnubash&logoColor=white)
-![Kali](https://img.shields.io/badge/Kali%20Linux-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)
-![SIEM](https://img.shields.io/badge/SIEM-10B981?style=for-the-badge&logo=splunk&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-161B22?style=for-the-badge&logo=github&logoColor=white)
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=0d1117&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/Kali%20Linux-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/SIEM-FFA500?style=for-the-badge&logo=splunk&logoColor=white&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117"/>
 
 </div>
 
@@ -170,9 +180,15 @@ visitor@github:~$ cat ./about_me.txt
   <img alt="Streak Stats" src="https://streak-stats.demolab.com?user=hamzamalik97&theme=dark&hide_border=true&background=0d1117&ring=00D4FF&fire=00D4FF&currStreakLabel=00D4FF" height="165"/>
 </picture>
 
-<br/><br/>
+</div>
 
-### Pac-Man Graph
+---
+
+<div align="center">
+
+## ◈ Contribution Graphs
+
+### 👾 Pac-Man Graph
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hamzamalik97/hamzamalik97/output/pacman-contribution-graph-dark.svg"/>
@@ -182,7 +198,7 @@ visitor@github:~$ cat ./about_me.txt
 
 <br/><br/>
 
-### Standard Contribution Graph
+### 📈 Activity Graph
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=hamzamalik97&theme=react-dark&bg_color=0d1117&color=00D4FF&line=00D4FF&point=ffffff&hide_border=true"/>
@@ -199,11 +215,10 @@ visitor@github:~$ cat ./about_me.txt
 ## ◈ Connect
 
 <a href="https://www.linkedin.com/in/hamza-malik-791ba8301/">
-  <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117"/>
 </a>
-&nbsp;
 <a href="https://github.com/hamzamalik97/-Best-for-cisco-packet-tracer-lab">
-  <img src="https://img.shields.io/badge/View%20CCNA%20Labs-00D4FF?style=for-the-badge&logo=github&logoColor=0d1117"/>
+  <img src="https://img.shields.io/badge/View%20CCNA%20Labs-00D4FF?style=for-the-badge&logo=github&logoColor=0d1117&labelColor=0d1117"/>
 </a>
 
 <br/><br/>
