@@ -15,30 +15,30 @@ _|          _|    _|    _|  _|    _|    _|    _|    _|    _|    _|  _|
 _|_|_|    _|_|_|  _|_|_|    _|_|_|    _|_|_|    _|_|  _|    _|_|    _|_|_|_|  
 ```
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=99999&color=00FF9D&center=true&vCenter=true&width=700&height=40&lines=Building+clean+networks+%26+secure+systems+%F0%9F%9F%A2" alt="Tagline"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=99999&color=4F46E5&center=true&vCenter=true&width=700&height=40&lines=Building+clean+networks+%26+secure+systems" alt="Tagline"/>
 
 <br/>
 
 <a href="https://www.linkedin.com/in/hamza-malik-791ba8301/">
-  <img src="https://img.shields.io/badge/LinkedIn-M%20Hamza%20Siddique-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117"/>
+  <img src="https://img.shields.io/badge/LinkedIn-M%20Hamza%20Siddique-4F46E5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=F1F5F9"/>
 </a>
 <a href="https://github.com/hamzamalik97">
-  <img src="https://img.shields.io/badge/GitHub-hamzamalik97-00D4FF?style=for-the-badge&logo=github&logoColor=0d1117&labelColor=0d1117"/>
+  <img src="https://img.shields.io/badge/GitHub-hamzamalik97-0EA5E9?style=for-the-badge&logo=github&logoColor=white&labelColor=F1F5F9"/>
 </a>
 <a href="https://github.com/hamzamalik97/-Best-for-cisco-packet-tracer-lab">
-  <img src="https://img.shields.io/badge/CCNA%20Labs-21%20Projects-10B981?style=for-the-badge&logo=cisco&logoColor=white&labelColor=0d1117"/>
+  <img src="https://img.shields.io/badge/CCNA%20Labs-21%20Projects-10B981?style=for-the-badge&logo=cisco&logoColor=white&labelColor=F1F5F9"/>
 </a>
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=hamzamalik97&style=for-the-badge&color=00D4FF&labelColor=0d1117&label=VISITORS"/>
-<img src="https://img.shields.io/github/followers/hamzamalik97?style=for-the-badge&color=10B981&labelColor=0d1117&label=FOLLOWERS"/>
+<img src="https://komarev.com/ghpvc/?username=hamzamalik97&style=for-the-badge&color=4F46E5&labelColor=F1F5F9&label=VISITORS"/>
+<img src="https://img.shields.io/github/followers/hamzamalik97?style=for-the-badge&color=0EA5E9&labelColor=F1F5F9&label=FOLLOWERS"/>
 
 </div>
 
 <br/>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&width=100%"/>
 
 ```
 visitor@github:~$ cat ./about_me.txt
@@ -52,7 +52,7 @@ visitor@github:~$ cat ./about_me.txt
   Collab  : OPEN — reach out anytime ✅
 ```
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&width=100%"/>
 
 <div align="center">
 
@@ -60,21 +60,21 @@ visitor@github:~$ cat ./about_me.txt
 
 **Networking**
 
-<img src="https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white&labelColor=0d1117"/>
-<img src="https://img.shields.io/badge/Packet%20Tracer-0057A8?style=for-the-badge&logo=cisco&logoColor=white&labelColor=0d1117"/>
-<img src="https://img.shields.io/badge/OSPF-00D4FF?style=for-the-badge&logo=cloudflare&logoColor=0d1117&labelColor=0d1117"/>
-<img src="https://img.shields.io/badge/ACLs-FF6B6B?style=for-the-badge&logo=cisco&logoColor=white&labelColor=0d1117"/>
-<img src="https://img.shields.io/badge/TCP%2FIP-00D4FF?style=for-the-badge&logo=internetexplorer&logoColor=0d1117&labelColor=0d1117"/>
-<img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white&labelColor=F1F5F9"/>
+<img src="https://img.shields.io/badge/Packet%20Tracer-4F46E5?style=for-the-badge&logo=cisco&logoColor=white&labelColor=F1F5F9"/>
+<img src="https://img.shields.io/badge/OSPF-0EA5E9?style=for-the-badge&logo=cloudflare&logoColor=white&labelColor=F1F5F9"/>
+<img src="https://img.shields.io/badge/ACLs-F59E0B?style=for-the-badge&logo=cisco&logoColor=white&labelColor=F1F5F9"/>
+<img src="https://img.shields.io/badge/TCP%2FIP-0EA5E9?style=for-the-badge&logo=internetexplorer&logoColor=white&labelColor=F1F5F9"/>
+<img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white&labelColor=F1F5F9"/>
 
 **Cybersecurity & Linux**
 
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=0d1117&labelColor=0d1117"/>
-<img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white&labelColor=0d1117"/>
-<img src="https://img.shields.io/badge/Kali%20Linux-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white&labelColor=0d1117"/>
-<img src="https://img.shields.io/badge/SIEM-FFA500?style=for-the-badge&logo=splunk&logoColor=white&labelColor=0d1117"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=0d1117"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=0d1117&labelColor=F1F5F9"/>
+<img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white&labelColor=F1F5F9"/>
+<img src="https://img.shields.io/badge/Kali%20Linux-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white&labelColor=F1F5F9"/>
+<img src="https://img.shields.io/badge/SIEM-F59E0B?style=for-the-badge&logo=splunk&logoColor=white&labelColor=F1F5F9"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=F1F5F9"/>
+<img src="https://img.shields.io/badge/GitHub-4F46E5?style=for-the-badge&logo=github&logoColor=white&labelColor=F1F5F9"/>
 
 </div>
 
@@ -96,7 +96,7 @@ visitor@github:~$ cat ./about_me.txt
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&width=100%"/>
 
 <div align="center">
 
@@ -125,7 +125,7 @@ visitor@github:~$ cat ./about_me.txt
   WAN Technologies    ░░░░░░░░░░░░░░░░░░░░░░    0%  ○
 ```
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&width=100%"/>
 
 <div align="center">
 
@@ -144,17 +144,13 @@ visitor@github:~$ cat ./about_me.txt
   Threat Hunting        ░░░░░░░░░░░░░░░░░░░░░░    0%  ○
 ```
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&width=100%"/>
 
 <div align="center">
 
 ## ◈ Featured Project
 
-[<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=hamzamalik97&repo=-Best-for-cisco-packet-tracer-lab&theme=dark&hide_border=true&title_color=00D4FF&icon_color=00D4FF&text_color=cdd9e5&bg_color=0d1117"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=hamzamalik97&repo=-Best-for-cisco-packet-tracer-lab&theme=default&hide_border=true&title_color=0057A8&icon_color=0057A8"/>
-  <img alt="Cisco Labs" src="https://github-readme-stats.vercel.app/api/pin/?username=hamzamalik97&repo=-Best-for-cisco-packet-tracer-lab&theme=dark&hide_border=true&title_color=00D4FF&icon_color=00D4FF&text_color=cdd9e5&bg_color=0d1117"/>
-</picture>](https://github.com/hamzamalik97/-Best-for-cisco-packet-tracer-lab)
+[<img src="https://github-readme-stats.vercel.app/api/pin/?username=hamzamalik97&repo=-Best-for-cisco-packet-tracer-lab&theme=default&hide_border=true&title_color=4F46E5&icon_color=0EA5E9&text_color=1e293b&bg_color=ffffff"/>](https://github.com/hamzamalik97/-Best-for-cisco-packet-tracer-lab)
 
 ```
   21 Hands-On Labs  ·  CCNA 200-301  ·  Open Source  ·  Free to Clone
@@ -162,27 +158,19 @@ visitor@github:~$ cat ./about_me.txt
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&width=100%"/>
 
 <div align="center">
 
 ## ◈ GitHub Stats
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=hamzamalik97&show_icons=true&theme=dark&hide_border=true&title_color=00D4FF&icon_color=00D4FF&text_color=cdd9e5&bg_color=0d1117&count_private=true"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=hamzamalik97&show_icons=true&theme=default&hide_border=true&title_color=0057A8&icon_color=0057A8&count_private=true"/>
-  <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=hamzamalik97&show_icons=true&theme=dark&hide_border=true&title_color=00D4FF&icon_color=00D4FF&text_color=cdd9e5&bg_color=0d1117&count_private=true" height="165"/>
-</picture>
+<img src="https://github-readme-stats.vercel.app/api?username=hamzamalik97&show_icons=true&theme=default&hide_border=true&title_color=4F46E5&icon_color=0EA5E9&text_color=1e293b&bg_color=ffffff&count_private=true" height="165"/>
 &nbsp;&nbsp;
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=hamzamalik97&theme=dark&hide_border=true&background=0d1117&ring=00D4FF&fire=00D4FF&currStreakLabel=00D4FF"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=hamzamalik97&theme=default&hide_border=true&ring=0057A8&fire=0057A8&currStreakLabel=0057A8"/>
-  <img alt="Streak Stats" src="https://streak-stats.demolab.com?user=hamzamalik97&theme=dark&hide_border=true&background=0d1117&ring=00D4FF&fire=00D4FF&currStreakLabel=00D4FF" height="165"/>
-</picture>
+<img src="https://streak-stats.demolab.com?user=hamzamalik97&theme=default&hide_border=true&background=ffffff&ring=4F46E5&fire=F59E0B&currStreakLabel=4F46E5&sideLabels=1e293b&currStreakNum=1e293b&sideNums=1e293b&dates=64748b" height="165"/>
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&width=100%"/>
 
 <div align="center">
 
@@ -190,35 +178,27 @@ visitor@github:~$ cat ./about_me.txt
 
 ### 👾 Pac-Man Graph
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hamzamalik97/hamzamalik97/output/pacman-contribution-graph-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hamzamalik97/hamzamalik97/output/pacman-contribution-graph.svg"/>
-  <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/hamzamalik97/hamzamalik97/output/pacman-contribution-graph-dark.svg" width="95%"/>
-</picture>
+<img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/hamzamalik97/hamzamalik97/output/pacman-contribution-graph.svg" width="95%"/>
 
 <br/><br/>
 
 ### 📈 Activity Graph
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=hamzamalik97&theme=react-dark&bg_color=0d1117&color=00D4FF&line=00D4FF&point=ffffff&hide_border=true"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=hamzamalik97&theme=minimal&bg_color=ffffff&color=0057A8&line=0057A8&point=0d1117&hide_border=true"/>
-  <img alt="Contribution activity graph" src="https://github-readme-activity-graph.vercel.app/graph?username=hamzamalik97&theme=react-dark&bg_color=0d1117&color=00D4FF&line=00D4FF&point=ffffff&hide_border=true" width="95%"/>
-</picture>
+<img alt="Contribution activity graph" src="https://github-readme-activity-graph.vercel.app/graph?username=hamzamalik97&theme=minimal&bg_color=ffffff&color=4F46E5&line=4F46E5&point=0EA5E9&area_color=4F46E5&hide_border=true" width="95%"/>
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&width=100%"/>
 
 <div align="center">
 
 ## ◈ Connect
 
 <a href="https://www.linkedin.com/in/hamza-malik-791ba8301/">
-  <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117"/>
+  <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-4F46E5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=F1F5F9"/>
 </a>
 <a href="https://github.com/hamzamalik97/-Best-for-cisco-packet-tracer-lab">
-  <img src="https://img.shields.io/badge/View%20CCNA%20Labs-00D4FF?style=for-the-badge&logo=github&logoColor=0d1117&labelColor=0d1117"/>
+  <img src="https://img.shields.io/badge/View%20CCNA%20Labs-0EA5E9?style=for-the-badge&logo=github&logoColor=white&labelColor=F1F5F9"/>
 </a>
 
 <br/><br/>
@@ -230,4 +210,4 @@ visitor@github:~$ cat ./about_me.txt
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d1a,50:003366,100:0d1117&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,50:0EA5E9,100:10B981&height=120&section=footer" width="100%"/>
