@@ -1,20 +1,29 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=42&pause=99999&color=00D4FF&center=true&vCenter=true&width=700&height=80&lines=M+Hamza+Siddique" alt="Name"/>
+```
+                                                                      
+_|      _|      _|    _|    _|_|    _|      _|  _|_|_|_|_|    _|_|    
+_|_|  _|_|      _|    _|  _|    _|  _|_|  _|_|        _|    _|    _|  
+_|  _|  _|      _|_|_|_|  _|_|_|_|  _|  _|  _|      _|      _|_|_|_|  
+_|      _|      _|    _|  _|    _|  _|      _|    _|        _|    _|  
+_|      _|      _|    _|  _|    _|  _|      _|  _|_|_|_|_|  _|    _|  
+                                                                      
+  _|_|_|  _|_|_|  _|_|_|    _|_|_|    _|_|_|    _|_|      _|    _|  _|_|_|_|  
+_|          _|    _|    _|  _|    _|    _|    _|    _|    _|    _|  _|        
+  _|_|      _|    _|    _|  _|    _|    _|    _|  _|_|    _|    _|  _|_|_|    
+      _|    _|    _|    _|  _|    _|    _|    _|    _|    _|    _|  _|        
+_|_|_|    _|_|_|  _|_|_|    _|_|_|    _|_|_|    _|_|  _|    _|_|    _|_|_|_|  
+```
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=16&pause=99999&color=ffffff&center=true&vCenter=true&width=700&height=30&lines=Cybersecurity+%26+Network+Engineer+in+the+Making+%7C+CCNA+200-301" alt="Tagline"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=99999&color=00FF9D&center=true&vCenter=true&width=700&height=40&lines=Building+clean+networks+%26+secure+systems+%F0%9F%9F%A2" alt="Tagline"/>
 
 <br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=00D4FF&center=true&vCenter=true&width=650&lines=Cisco+Networking+%7C+CCNA+200-301;Cybersecurity+Analyst+in+Training;Linux+%7C+Log+Analysis+%7C+Threat+Detection;21+Labs+%26+Counting+--+Building+Daily;Open+to+Network+%26+Cybersecurity+Roles" alt="Typing SVG" />
-
-<br/><br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-M%20Hamza%20Siddique-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hamza-malik-791ba8301/)
 &nbsp;
 [![GitHub](https://img.shields.io/badge/GitHub-hamzamalik97-161B22?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hamzamalik97)
 &nbsp;
-![Visitors](https://komarev.com/ghpvc/?username=hamzamalik97&style=for-the-badge&color=00D4FF&label=Profile+Views)
+![Visitors](https://komarev.com/ghpvc/?username=hamzamalik97&style=for-the-badge&color=00FF9D&label=Profile+Views)
 
 </div>
 
@@ -22,48 +31,23 @@
 
 ---
 
-<table width="100%">
-<tr>
-<td width="55%" valign="top">
-
-### `$ whoami`
-
-```yaml
-name       : M Hamza Siddique
-location   : Gujranwala, Pakistan 🇵🇰
-pursuing   : Cisco CCNA 200-301
-training   : Cybersecurity Analyst + Linux
-method     : Daily hands-on labs
-goal       : Network / Cybersecurity Analyst
-principle  : Build. Document. Share.
 ```
+visitor@github:~$ cat ./about_me.txt
 
-### 🎯 Current Focus
-
-- 🔬 **21 CCNA labs** completed — ACLs, NTP, DNS, DHCP, SNMP, OSPF, HSRP & more
-- 🐧 **Linux training** — log analysis, `grep`, `find`, user/group enumeration
-- 🛡️ Building toward **Cybersecurity Analyst** with SIEM & threat detection skills
-- 🌐 Sharing everything on **GitHub** & **LinkedIn**
-- 📡 Next: **NAT/PAT · WAN · Syslog**
-
-</td>
-<td width="45%" align="center" valign="top">
-
-<img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="100%" style="max-width:280px;" alt="coding gif"/>
-
-</td>
-</tr>
-</table>
+  Name    : M Hamza Siddique
+  Handle  : hamzamalik97
+  Based   : Gujranwala, Pakistan
+  Pursuing: Cisco CCNA 200-301
+  Focus   : Networking · Cybersecurity · Linux · Threat Detection
+  Status  : ██████████████████████░░  92%  Learning every day
+  Collab  : OPEN — reach out anytime ✅
+```
 
 ---
 
 <div align="center">
 
-## ◈ Tech Stack & Skills
-
-</div>
-
-<div align="center">
+### `> tech.stack`
 
 **Networking**
 
@@ -176,11 +160,19 @@ principle  : Build. Document. Share.
 
 <br/><br/>
 
+### Pac-Man Graph
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hamzamalik97/hamzamalik97/output/pacman-contribution-graph-dark.svg"/>
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hamzamalik97/hamzamalik97/output/pacman-contribution-graph.svg"/>
   <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/hamzamalik97/hamzamalik97/output/pacman-contribution-graph-dark.svg" width="95%"/>
 </picture>
+
+<br/><br/>
+
+### Standard Contribution Graph
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=hamzamalik97&theme=react-dark&bg_color=0d1117&color=00D4FF&line=00D4FF&point=ffffff&hide_border=true" width="95%"/>
 
 </div>
 
