@@ -200,6 +200,14 @@ principle  : Build. Document. Share.
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=hamzamalik97&theme=react-dark&hide_border=true&bg_color=0d1117&color=00D4FF&line=00D4FF&point=ffffff&area=true&area_color=00D4FF" width="95%"/>
 
+<br/><br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hamzamalik97/hamzamalik97/output/pacman-contribution-graph-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hamzamalik97/hamzamalik97/output/pacman-contribution-graph.svg"/>
+  <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/hamzamalik97/hamzamalik97/output/pacman-contribution-graph-dark.svg" width="95%"/>
+</picture>
+
 </div>
 
 ---
