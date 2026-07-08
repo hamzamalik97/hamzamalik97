@@ -61,26 +61,32 @@ principle  : Build. Document. Share.
 
 ## ◈ Tech Stack & Skills
 
-</div>
+<br/>
 
-<div align="center">
+<img src="https://img.shields.io/badge/NETWORKING-00D4FF?style=for-the-badge&labelColor=0d1117"/>
 
-**Networking**
+<br/><br/>
 
-![Cisco](https://img.shields.io/badge/Cisco-00D4FF?style=for-the-badge&logo=cisco&logoColor=0d1117)
-![Packet Tracer](https://img.shields.io/badge/Packet%20Tracer-0057A8?style=for-the-badge&logo=cisco&logoColor=white)
-![OSPF](https://img.shields.io/badge/OSPF-00D4FF?style=for-the-badge&logo=cloudflare&logoColor=0d1117)
-![ACL](https://img.shields.io/badge/ACLs-0057A8?style=for-the-badge&logo=cisco&logoColor=white)
-![TCP/IP](https://img.shields.io/badge/TCP%2FIP-00D4FF?style=for-the-badge&logo=internetexplorer&logoColor=0d1117)
-![Wireshark](https://img.shields.io/badge/Wireshark-0057A8?style=for-the-badge&logo=wireshark&logoColor=white)
+<img src="https://img.shields.io/badge/Cisco_IOS-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white"/>
+<img src="https://img.shields.io/badge/Packet_Tracer-0057A8?style=for-the-badge&logo=cisco&logoColor=white"/>
+<img src="https://img.shields.io/badge/OSPF_%7C_EIGRP-00D4FF?style=for-the-badge&logo=cloudflare&logoColor=0d1117"/>
+<img src="https://img.shields.io/badge/VLAN_%7C_STP-0057A8?style=for-the-badge&logo=cisco&logoColor=white"/>
+<img src="https://img.shields.io/badge/ACLs-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white"/>
+<img src="https://img.shields.io/badge/TCP%2FIP-00D4FF?style=for-the-badge&logo=internetcomputer&logoColor=0d1117"/>
+<img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"/>
 
-**Cybersecurity & Linux**
+<br/><br/>
 
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=0d1117)
-![Bash](https://img.shields.io/badge/Bash-10B981?style=for-the-badge&logo=gnubash&logoColor=white)
-![Kali](https://img.shields.io/badge/Kali%20Linux-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)
-![SIEM](https://img.shields.io/badge/SIEM-10B981?style=for-the-badge&logo=splunk&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-161B22?style=for-the-badge&logo=github&logoColor=white)
+<img src="https://img.shields.io/badge/CYBERSECURITY_%26_LINUX-10B981?style=for-the-badge&labelColor=0d1117"/>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=0d1117"/>
+<img src="https://img.shields.io/badge/Kali_Linux-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white"/>
+<img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white"/>
+<img src="https://img.shields.io/badge/SIEM_Concepts-10B981?style=for-the-badge&logo=splunk&logoColor=white"/>
+<img src="https://img.shields.io/badge/Log_Analysis-10B981?style=for-the-badge&logo=elastic&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git_%26_GitHub-161B22?style=for-the-badge&logo=github&logoColor=white"/>
 
 </div>
 
@@ -156,11 +162,27 @@ principle  : Build. Document. Share.
 
 ## ◈ Featured Project
 
-[![Cisco Labs](https://github-readme-stats.vercel.app/api/pin/?username=hamzamalik97&repo=-Best-for-cisco-packet-tracer-lab&theme=dark&hide_border=true&title_color=00D4FF&icon_color=00D4FF&text_color=cdd9e5&bg_color=0d1117)](https://github.com/hamzamalik97/-Best-for-cisco-packet-tracer-lab)
+<table>
+<tr>
+<td width="100%">
 
-```
-  21 Hands-On Labs  ·  CCNA 200-301  ·  Open Source  ·  Free to Clone
-```
+### 🖧 Cisco Packet Tracer Lab Repository
+
+**21 hands-on labs built while preparing for CCNA 200-301** — from ARP/ICMP fundamentals to OSPF, floating static routes, VLANs, STP, and router-on-a-stick configs.
+
+<img src="https://img.shields.io/badge/Cisco_Packet_Tracer-1BA0D7?style=flat-square&logo=cisco&logoColor=white"/>
+<img src="https://img.shields.io/badge/CCNA_200--301-00D4FF?style=flat-square"/>
+<img src="https://img.shields.io/badge/Labs-21-orange?style=flat-square"/>
+<img src="https://img.shields.io/badge/Open_Source-brightgreen?style=flat-square"/>
+<img src="https://img.shields.io/badge/Language-Packet_Tracer_%2Epkt-blue?style=flat-square"/>
+
+**Includes:** ARP/ICMP · Static & Floating Routing · VLAN Segmentation · STP/RSTP with BPDU Guard · Layer 3 Inter-VLAN Routing · Router-on-a-Stick · OSPF with backup routes
+
+📂 [**View the full repository →**](https://github.com/hamzamalik97/-Best-for-cisco-packet-tracer-lab)
+
+</td>
+</tr>
+</table>
 
 </div>
 
@@ -176,11 +198,7 @@ principle  : Build. Document. Share.
 
 <br/><br/>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hamzamalik97/hamzamalik97/output/pacman-contribution-graph-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hamzamalik97/hamzamalik97/output/pacman-contribution-graph.svg"/>
-  <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/hamzamalik97/hamzamalik97/output/pacman-contribution-graph-dark.svg" width="95%"/>
-</picture>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=hamzamalik97&theme=react-dark&hide_border=true&bg_color=0d1117&color=00D4FF&line=00D4FF&point=ffffff&area=true&area_color=00D4FF" width="95%"/>
 
 </div>
 
