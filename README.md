@@ -1,24 +1,14 @@
 <div align="center">
 
-███╗   ███╗██╗   ██╗██╗  ██╗ █████╗ ███╗   ███╗
-████╗ ████║██║   ██║██║  ██║██╔══██╗████╗ ████║
-██╔████╔██║██║   ██║███████║███████║██╔████╔██║
-██║╚██╔╝██║██║   ██║██╔══██║██╔══██║██║╚██╔╝██║
-██║ ╚═╝ ██║╚██████╔╝██║  ██║██║  ██║██║ ╚═╝ ██║
-╚═╝     ╚═╝ ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝     ╚═╝
-              SIDDIQUE
+<img src="assets/name-banner.png" width="650" alt="Muhammad Hamza Siddique">
 
-<h3>
-Building Secure Networks • Learning Cybersecurity
-</h3>
+<br><br>
 
-<p>
-CCNA 200-301 • Linux • Cisco Networking • Future Cybersecurity Analyst
-</p>
+### Network Engineer • CCNA 200-301
 
-<br/>
+**Linux • Cisco Networking • Cybersecurity**
 
-<br/><br/>
+<br>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-M%20Hamza%20Siddique-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hamza-malik-791ba8301/)
 &nbsp;
