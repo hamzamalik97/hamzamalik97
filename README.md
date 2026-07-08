@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&weight=700&size=22&pause=99999&color=FFFFFF&center=true&vCenter=true&width=1100&height=120&lines=MUHAMMAD+HAMZA+SIDDIQUE" alt="Muhammad Hamza Siddique"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=38&pause=99999&color=FFFFFF&center=true&vCenter=true&width=1000&height=80&lines=MUHAMMAD+HAMZA+SIDDIQUE" alt="Muhammad Hamza Siddique"/>
 
 <h3>
 Building Secure Networks • Learning Cybersecurity
