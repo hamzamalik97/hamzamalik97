@@ -1,12 +1,16 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=42&pause=99999&color=00D4FF&center=true&vCenter=true&width=700&height=80&lines=M+Hamza+Siddique" alt="Name"/>
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&weight=700&size=22&pause=99999&color=FFFFFF&center=true&vCenter=true&width=1100&height=120&lines=MUHAMMAD+HAMZA+SIDDIQUE" alt="Muhammad Hamza Siddique"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=16&pause=99999&color=ffffff&center=true&vCenter=true&width=700&height=30&lines=Cybersecurity+%26+Network+Engineer+in+the+Making+%7C+CCNA+200-301" alt="Tagline"/>
+<h3>
+Building Secure Networks • Learning Cybersecurity
+</h3>
+
+<p>
+CCNA 200-301 • Linux • Cisco Networking • Future Cybersecurity Analyst
+</p>
 
 <br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=00D4FF&center=true&vCenter=true&width=650&lines=Cisco+Networking+%7C+CCNA+200-301;Cybersecurity+Analyst+in+Training;Linux+%7C+Log+Analysis+%7C+Threat+Detection;21+Labs+%26+Counting+--+Building+Daily;Open+to+Network+%26+Cybersecurity+Roles" alt="Typing SVG" />
 
 <br/><br/>
 
